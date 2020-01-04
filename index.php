@@ -9,11 +9,11 @@
 	<section class="main">
 		<div class="main_block">
 			<div class="first_block">
-				<h4>What Caesar mean:</h4>
+				<h4>What Caesar means:</h4>
 				<textarea id="inner_text" cols="30" rows="10"></textarea>			
 			</div>
 			<div class="second_block">
-				<h4>What Caesar say:</h4>
+				<h4>What Caesar says:</h4>
 				<img src="caesar.png" alt="Caesar">			
 			</div>
 			<textarea id="out" cols="30" rows="10">
