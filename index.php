@@ -3,6 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Caesar_cipher</title>
+	<link href="https://fonts.googleapis.com/css?family=Cuprum|Roboto+Condensed" rel="stylesheet">
 	<link rel="stylesheet" href="css/main.css">
 </head>
 <body>
